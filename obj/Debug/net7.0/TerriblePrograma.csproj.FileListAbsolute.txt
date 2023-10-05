@@ -1,0 +1,14 @@
+C:\Users\Ice\source\repos\TerriblePrograma\bin\Debug\net7.0\TerriblePrograma.exe
+C:\Users\Ice\source\repos\TerriblePrograma\bin\Debug\net7.0\TerriblePrograma.deps.json
+C:\Users\Ice\source\repos\TerriblePrograma\bin\Debug\net7.0\TerriblePrograma.runtimeconfig.json
+C:\Users\Ice\source\repos\TerriblePrograma\bin\Debug\net7.0\TerriblePrograma.dll
+C:\Users\Ice\source\repos\TerriblePrograma\bin\Debug\net7.0\TerriblePrograma.pdb
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.AssemblyInfoInputs.cache
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.AssemblyInfo.cs
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.csproj.CoreCompileInputs.cache
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.dll
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\refint\TerriblePrograma.dll
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.pdb
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\TerriblePrograma.genruntimeconfig.cache
+C:\Users\Ice\source\repos\TerriblePrograma\obj\Debug\net7.0\ref\TerriblePrograma.dll
