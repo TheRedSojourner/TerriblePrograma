@@ -1,2 +1,6 @@
 .vs/
 bin\
+.vs/TerriblePrograma/v17/.suo
+*.dll
+*.pdb
+*.cache
