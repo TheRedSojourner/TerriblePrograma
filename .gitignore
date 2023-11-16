@@ -4,3 +4,11 @@ bin\
 *.dll
 *.pdb
 *.cache
+obj/Debug/net7.0/TerriblePrograma.pdb
+obj/Debug/net7.0/TerriblePrograma.dll
+bin/Debug/net7.0/TerriblePrograma.runtimeconfig.json
+bin/Debug/net7.0/TerriblePrograma.exe
+bin/Debug/net7.0/TerriblePrograma.deps.json
+.vs/TerriblePrograma/v17/.suo
+.vs/TerriblePrograma/v17/.futdcache.v2
+.vs/TerriblePrograma/FileContentIndex/555e8be8-607b-472b-b18d-b63f0a228056.vsidx

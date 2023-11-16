@@ -23,8 +23,9 @@ internal class Program
 
         string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
 
-        StreamReader reader = new StreamReader("derp.txt");
-        Console.WriteLine(reader.ReadToEnd());
+        
+        //StreamReader reader = new StreamReader("derp.txt");
+        //Console.WriteLine(reader.ReadToEnd());
 
 
 
