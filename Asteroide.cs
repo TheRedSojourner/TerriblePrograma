@@ -12,6 +12,8 @@ namespace TerriblePrograma
         int[] pesoMineralesPorTipo;
         List<int> numeros;
 
+        string cambios;
+
         public Asteroide(tamañoAsteroide tamaño) : base()
         {
             
