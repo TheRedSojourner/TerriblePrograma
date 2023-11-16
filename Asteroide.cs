@@ -11,6 +11,7 @@ namespace TerriblePrograma
         tamañoAsteroide tamaño;
         int[] pesoMineralesPorTipo;
         List<int> numeros;
+        string cambios = ":/";
 
         string cambios;
 
