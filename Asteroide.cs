@@ -6,12 +6,33 @@ using System.Threading.Tasks;
 
 namespace TerriblePrograma
 {
-    class Asteroide
+    class Asteroide : CuerpoAstral
     {
         tamañoAsteroide tamaño;
         int[] pesoMineralesPorTipo;
+        List<int> numeros;
 
-        public void CreameUnAsteroideRandom() 
+        public Asteroide(tamañoAsteroide tamaño) : base()
+        {
+            
+            numeros = new List<int>();
+            this.tamaño = tamaño;
+            CreameUnAsteroideRandom();
+            masa = DeterminarMasaSegunTamaño();
+        }
+
+        private double DeterminarMasaSegunTamaño() 
+        {
+            return 2.0;
+        }
+        
+        public Asteroide() 
+        {
+            CreameUnAsteroideRandom();
+        }
+
+
+        private void CreameUnAsteroideRandom() 
         {
             tamaño = DeterminarTamañoAsteroide();
             pesoMineralesPorTipo = DeterminarPesosDeMinerales();
@@ -37,7 +58,10 @@ namespace TerriblePrograma
 
 
 
-
+        public void Explotar() 
+        {
+        
+        }
 
         private tamañoAsteroide DeterminarTamañoAsteroide() 
         {
